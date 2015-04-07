@@ -1,12 +1,13 @@
 {
   "name": "XLSXtoJson",
   "version": "1.0.0",
-  "description": "test",
+  "description": "excel转json",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "repository": { "type":"git", "url":"https://github.com/bcpxqz/XLSXtoJson.git" },
+  "author": "bcpxqz",
   "license": "ISC",
   "dependencies": {
     "xlsx": "^0.8.0"
